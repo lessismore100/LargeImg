@@ -7,7 +7,6 @@ import android.view.MenuItem;
 
 /**
  * 
- * @author steve
  *
  */
 public class MainActivity extends Activity {
